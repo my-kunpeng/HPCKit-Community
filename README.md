@@ -12,24 +12,24 @@
   </colgroup>
   <thead>
     <tr>
-      <th style="width: 15%;">组件</th>
-      <th style="width: 65%;">描述</th>
-      <th style="width: 20%;">源码仓</th>
+      <th style="width: 15%;"><div style="text-align: center;">组件</div></th>
+      <th style="width: 65%;"><div style="text-align: center;">描述</div></th>
+      <th style="width: 20%;"><div style="text-align: center;">源码仓</div></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>基础加速库</td>
+      <td><div style="text-align: center;">基础加速库</div></td>
       <td>提供基于鲲鹏平台优化的基础加速库。</td>
       <td><a href="https://atomgit.com/kunpengcompute/kupl">kupl</a> <br> <a href="https://atomgit.com/kunpengcompute/hmpi">hmpi</a> <br> <a href="https://atomgit.com/kunpengcompute/hucx">hucx</a> <br> <a href="https://atomgit.com/kunpengcompute/xucg">xucg</a></td>
     </tr>
     <tr>
-      <td>领域加速库</td>
+      <td><div style="text-align: center;">领域加速库</div></td>
       <td>提供针对特定高性能计算场景（如量子色动力学、分子动力学等）在鲲鹏平台上深度优化的加速库。它们利用鲲鹏处理器架构特性，通过指令级优化、算法重构和并行加速等手段，显著提升相应领域应用的运行效率。</td>
       <td><a href="https://atomgit.com/kunpengcompute/kutacc">kutacc</a> <br> <a href="https://atomgit.com/kunpengcompute/kudnn">kudnn</a> <br> <a href="https://atomgit.com/kunpengcompute/kuqcd">kuqcd</a></td>
     </tr>
     <tr>
-      <td>编程框架</td>
+      <td><div style="text-align: center;">编程框架</div></td>
       <td>提供基于鲲鹏平台优化的编程框架。</td>
       <td><a href="https://atomgit.com/kunpengcompute/kunpeng-extension-for-pytorch">kunpeng-extension-for-pytorch</a></td>
     </tr>
