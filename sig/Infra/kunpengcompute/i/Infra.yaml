@@ -1,0 +1,6 @@
+name: Infra
+description: "基础设施资源仓"
+type: public
+branches:
+  - name: main
+    type: protected

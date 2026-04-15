@@ -2,7 +2,7 @@ name: Infra
 description: "负责HPCKit社区基础设施的配置和维护"
 mailing_list: ""
 maintainers:
-  - gitcode_id: georgecao
+  - atomgit_id: georgecao
     name: 曹志
     organization: huawei
     email: george.cao@huawei.com
@@ -10,11 +10,11 @@ repositories:
   - repo:
       - kunpengcompute/hpckit-community
     committers:
-      - gitcode_id: yao-xiaobai
+      - atomgit_id: yao-xiaobai
         name: 姚孝添
         organization: huawei
         email: 176253319000@163.com
-      - gitcode_id: Guangyue-Xu
+      - atomgit_id: Guangyue-Xu
         name: 许广跃
         organization: huawei
         email: xuguangyue2@huawei.com
