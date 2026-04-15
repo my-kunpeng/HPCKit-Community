@@ -12,6 +12,13 @@
 您可以在[TSC会议纪要]()查看到相关内容，TSC并会在每次会议后将会议纪要发布到邮件列表中。
 
 ## TSC成员（排名不分先后）
+- 丁肇辉 dingzhaohui@huawei.com [[@dingzhaohui]](https://gitcode.com/dingzhaohui)
+- 李思聪 devin.lisicong@huawei.com [[@lee_hw]](https://gitcode.com/lee_hw)
+- 蒋舜宁 jiangshunning@huawei.com [[@jsn1993]](https://gitcode.com/jsn1993)
+- 陈正 chenzheng79@huawei.com [[@chenzheng1030]](https://gitcode.com/chenzheng1030)
+- 张倩茹 zhangqianru10@hisilicon.com [[@zqrer]](https://gitcode.com/zqrer)
+- 余晨 yuchen37@huawei.com [[@fishm]](https://gitcode.com/fishm)
+- 苏克 suke11@huawei.com [[@suke2717]](https://gitcode.com/suke2717)
 
 ## 联系信息
 
